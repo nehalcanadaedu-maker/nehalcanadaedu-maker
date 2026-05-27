@@ -5,8 +5,14 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/nehalcanadaedu-maker/vulnerability-management-program)**
-**[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)]**(https://github.com/nehalcanadaedu-maker/Windows-11-STIG-Vulnerability-Remediation-Lab)**
+- **[Vulnerability Management Program Implementation](https://github.com/nehalcanadaedu-maker/vulnerability-management-program)**  
+  Enterprise-style vulnerability management lifecycle project covering discovery scans, remediation workflows, CAB processes, risk prioritization, and PowerShell-based remediation automation.
+
+- **[Linux Vulnerability Management Lab](https://github.com/nehalcanadaedu-maker/linux-vulnerability-management-lab)**  
+  Hands-on Linux vulnerability management lab focused on authenticated scanning, vulnerability detection, remediation, and security hardening within Linux environments.
+
+- **[Windows 11 STIG Vulnerability Remediation Lab](https://github.com/nehalcanadaedu-maker/Windows-11-STIG-Vulnerability-Remediation-Lab)**  
+  Windows 11 security hardening and remediation project using DISA STIG concepts, Tenable authenticated scans, PowerShell remediation scripts, and vulnerability validation workflows.
 
 ## 🚨 Threat Hunting and Security Operations
 
