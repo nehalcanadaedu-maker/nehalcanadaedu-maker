@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/nehalcanadaedu-maker/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/nehalcanadaedu-maker/Windows-11-STIG-Vulnerability-Remediation-Lab)
+**[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)]**(https://github.com/nehalcanadaedu-maker/Windows-11-STIG-Vulnerability-Remediation-Lab)**
 
 ## 🚨 Threat Hunting and Security Operations
 
