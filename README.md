@@ -17,8 +17,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (EmberForge Source Leak Investigation)](https://github.com/nehalcanadaedu-maker/Threat-hunt)**
-  
-  Conducted a full threat hunting investigation in Microsoft Sentinel involving data exfiltration, attacker infrastructure discovery, NTDS credential theft, and cloud-based exfiltration using KQL and Sysmon telemetry analysis.
+Conducted a full threat hunting investigation in Microsoft Sentinel involving data exfiltration, attacker infrastructure discovery, NTDS credential theft, and cloud-based exfiltration using KQL and Sysmon telemetry analysis.
 
 - **[Tor Browser Threat Hunting Scenarios](https://github.com/nehalcanadaedu-maker/tor-threat-hunting-scenarios)**
   
