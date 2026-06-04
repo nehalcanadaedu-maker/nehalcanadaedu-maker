@@ -17,6 +17,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (EmberForge Source Leak Investigation)](https://github.com/nehalcanadaedu-maker/Threat-hunt)**
+- **[Tor Browser Threat Hunting Scenarios](https://github.com/nehalcanadaedu-maker/tor-threat-hunting-scenarios)**
 
 <hr/>
 
