@@ -11,10 +11,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Linux Vulnerability Management Lab](https://github.com/nehalcanadaedu-maker/linux-vulnerability-management-lab)**  
   Hands-on Linux vulnerability management lab focused on authenticated scanning, vulnerability detection, remediation, and security hardening within Linux environments.
 
-- **[Windows 11 STIG Vulnerability Remediation Lab](https://github.com/nehalcanadaedu-maker/Windows-11-STIG-Vulnerability-Remediation-Lab)**  
+- **[Windows 11 STIG Vulnerability Remediation Lab]( https://github.com/nehalcanadaedu-maker/STIGS-Implementation-Automation)**  
   Windows 11 security hardening and remediation project using DISA STIG concepts, Tenable authenticated scans, PowerShell remediation scripts, and vulnerability validation workflows.
 
-  https://github.com/nehalcanadaedu-maker/STIGS-Implementation-Automation
+
 
 ## 🚨 Threat Hunting and Security Operations
 
