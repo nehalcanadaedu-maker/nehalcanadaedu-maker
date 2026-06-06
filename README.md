@@ -14,6 +14,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Windows 11 STIG Vulnerability Remediation Lab](https://github.com/nehalcanadaedu-maker/Windows-11-STIG-Vulnerability-Remediation-Lab)**  
   Windows 11 security hardening and remediation project using DISA STIG concepts, Tenable authenticated scans, PowerShell remediation scripts, and vulnerability validation workflows.
 
+  https://github.com/nehalcanadaedu-maker/STIGS-Implementation-Automation
+
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (EmberForge Source Leak Investigation)](https://github.com/nehalcanadaedu-maker/Threat-hunt)**
