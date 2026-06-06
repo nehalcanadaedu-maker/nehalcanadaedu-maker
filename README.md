@@ -21,5 +21,3 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Tor Browser Threat Hunting Scenarios](https://github.com/nehalcanadaedu-maker/tor-threat-hunting-scenarios)**  
   Developed threat hunting and detection engineering scenarios focused on identifying Tor Browser activity, anonymous outbound traffic, suspicious endpoint behavior, and enterprise policy evasion using Microsoft Defender for Endpoint and Microsoft Sentinel.
 
----
-
