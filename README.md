@@ -23,6 +23,3 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ---
 
-## 🤳 Connect With Me
-
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/nehal-patel-162490300/)
