@@ -15,6 +15,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
+- ()
+- **[AI SOC Agent](https://github.com/nehalcanadaedu-maker/AI-SOC-Agent)**  
+  Architected a custom SOAR pipeline using OpenAI APIs to auto-analyze Sentinel alerts, reducing manual triage latency
+
 - **[Threat Hunting Scenario (EmberForge Source Leak Investigation)](https://github.com/nehalcanadaedu-maker/Threat-hunt)**  
   Conducted a full threat hunting investigation in Microsoft Sentinel involving data exfiltration, attacker infrastructure discovery, NTDS credential theft, and cloud-based exfiltration using KQL and Sysmon telemetry analysis.
 
