@@ -15,7 +15,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- ()
 - **[AI SOC Agent](https://github.com/nehalcanadaedu-maker/AI-SOC-Agent)**  
   Architected a custom SOAR pipeline using OpenAI APIs to auto-analyze Sentinel alerts, reducing manual triage latency
 
