@@ -15,8 +15,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **M365 Identity Compromise — BEC & Silent Exfiltration**[https://github.com/nehalcanadaedu-maker/M365-Identity-Compromise-BEC-Silent-Exfiltration](https://github.com/nehalcanadaedu-maker/M365-Identity-Compromise-BEC-Silent-Exfiltration)  
-A full end‑to‑end investigation simulating a real enterprise identity breach. Includes triage, session scoping, anomalous sign‑in analysis, MFA posture review, defense evasion patterns, and exfiltration detection using **Microsoft Sentinel**, **Entra ID**, and **KQL**. Structured like a professional IR case with hypotheses, evidence, timelines, and MITRE mapping.
+- **[M365 Identity Compromise — BEC & Silent Exfiltration](https://github.com/nehalcanadaedu-maker/M365-Identity-Compromise-BEC-Silent-Exfiltration)**  
+  Performed a full enterprise‑grade investigation into an M365 identity breach involving compromised principals, session hijacking, MFA posture weaknesses, defense evasion, and silent mailbox exfiltration. Used Microsoft Sentinel, Entra ID logs, and KQL to scope attacker activity, reconstruct timelines, correlate IOCs, and map behaviors to MITRE ATT&CK.
 
 - **[Threat Hunting Scenario (EmberForge Source Leak Investigation)](https://github.com/nehalcanadaedu-maker/Threat-hunt)**  
   Conducted a full threat hunting investigation in Microsoft Sentinel involving data exfiltration, attacker infrastructure discovery, NTDS credential theft, and cloud-based exfiltration using KQL and Sysmon telemetry analysis.
