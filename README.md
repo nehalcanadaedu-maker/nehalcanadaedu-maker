@@ -15,14 +15,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-Here you go, Nehal — a clean, professional **GitHub Portfolio Projects section** with your **M365 Identity Compromise // BEC & Silent Exfiltration** project added, including a short, sharp description that fits your resume‑style preference.
-
-You can paste this directly into your GitHub profile README or a `projects.md` page.
-
----
-
-## 🚀 Projects
-
 - **M365 Identity Compromise — BEC & Silent Exfiltration**[https://github.com/nehalcanadaedu-maker/M365-Identity-Compromise-BEC-Silent-Exfiltration](https://github.com/nehalcanadaedu-maker/M365-Identity-Compromise-BEC-Silent-Exfiltration)  
 A full end‑to‑end investigation simulating a real enterprise identity breach. Includes triage, session scoping, anomalous sign‑in analysis, MFA posture review, defense evasion patterns, and exfiltration detection using **Microsoft Sentinel**, **Entra ID**, and **KQL**. Structured like a professional IR case with hypotheses, evidence, timelines, and MITRE mapping.
 
