@@ -15,9 +15,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- ### 🛡️ Second Vector — Microsoft 365 Identity Compromise Hunt
+- ### 🛡️ Second Vector — Microsoft 365 Identity Compromise Hunt](https://github.com/nehalcanadaedu-maker/M365-Identity-Compromise-BEC-Silent-Exfiltration)
 
-  [View Project Report](https://github.com/nehalcanadaedu-maker/M365-Identity-Compromise-BEC-Silent-Exfiltration)
+  [View Project Report
 
   Investigated a low-severity Microsoft Entra ID anonymous sign-in alert that escalated into a confirmed identity compromise, business email compromise, mailbox     persistence, and silent exfiltration case. The hunt used Microsoft Sentinel KQL across Microsoft 365 and Entra ID logs to trace suspicious sign-ins, fraud
   activity, mailbox rules, file downloads, and Power Automate abuse.
