@@ -15,7 +15,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- ### 🛡️ Second Vector — Microsoft 365 Identity Compromise Hunt
+**- Second Vector — Microsoft 365 Identity Compromise Hunt**
 
   [View Report](https://github.com/nehalcanadaedu-maker/M365-Identity-Compromise-BEC-Silent-Exfiltration)
 
