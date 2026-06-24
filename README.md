@@ -16,14 +16,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - ### 🛡️ [Second Vector — Microsoft 365 Identity Compromise Hunt](https://github.com/nehalcanadaedu-maker/M365-Identity-Compromise-BEC-Silent-Exfiltration)
-
-  [View Project Report](https://github.com/nehalcanadaedu-maker/M365-Identity-Compromise-BEC-Silent-Exfiltration)
-
   Investigated a low-severity Microsoft Entra ID anonymous sign-in alert that escalated into a confirmed identity compromise, business email compromise, mailbox     persistence, and silent exfiltration case. The hunt used Microsoft Sentinel KQL across Microsoft 365 and Entra ID logs to trace suspicious sign-ins, fraud
   activity, mailbox rules, file downloads, and Power Automate abuse.
 
   Key Skills: Microsoft Sentinel, KQL, Entra ID, Defender XDR, Microsoft 365 Security, BEC Investigation, Cloud Identity Threat Hunting, MITRE ATT&CK Mapping
-
 
 - **[Threat Hunting Scenario (EmberForge Source Leak Investigation)](https://github.com/nehalcanadaedu-maker/Threat-hunt)**  
   Conducted a full threat hunting investigation in Microsoft Sentinel involving data exfiltration, attacker infrastructure discovery, NTDS credential theft, and cloud-based exfiltration using KQL and Sysmon telemetry analysis.
