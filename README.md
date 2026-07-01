@@ -15,6 +15,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
+- **[End-to-End SOC/SOAR Automation Lab – Unauthorized RDP Login Detection & AD Containment](https://github.com/nehalcanadaedu-maker/soc-soar-rdp-containment-lab)**  
+  Built a Vultr-hosted SOC/SOAR workflow using Splunk, Shuffle, Slack, AbuseIPDB, Active Directory, and PowerShell to detect unauthorized RDP logins, enrich alerts with IP reputation and MITRE ATT&CK context, request analyst approval, disable suspicious AD accounts, and verify containment through final Slack notifications.
+  
 * **[Second Vector — Microsoft 365 Identity Compromise & BEC Investigation](https://github.com/nehalcanadaedu-maker/M365-Identity-Compromise-BEC-Silent-Exfiltration)**
 
   Investigated a low-severity Microsoft Entra ID anonymous sign-in alert that escalated into a confirmed identity compromise, business email compromise, mailbox persistence, Power Automate abuse, and silent data exfiltration using Microsoft Sentinel KQL across Microsoft 365, Entra ID, Defender XDR, email, mailbox, Graph, and cloud app telemetry.
