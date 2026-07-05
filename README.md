@@ -1,30 +1,85 @@
-# <a href="https://www.linkedin.com/in/nehal-patel-162490300/">Nehal Patel</a>'s Cybersecurity Project Portfolio 🔐
+# 🔐 Nehal Patel — Cybersecurity Project Portfolio
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I've put into enhancing security operations and processes!
+I specialize in **SOC operations, threat detection, cloud investigations, and security automation**. My projects focus on real-world attack scenarios, SIEM/SOAR workflows, identity compromise investigations, and enterprise-grade vulnerability management. Each project includes hands-on detections, automations, and remediation workflows designed to mirror modern SOC environments.
 
-## ⚠️ Vulnerability Management Projects
+---
 
-- **[Vulnerability Management Program Implementation](https://github.com/nehalcanadaedu-maker/vulnerability-management-program)**  
-  Enterprise-style vulnerability management lifecycle project covering discovery scans, remediation workflows, CAB processes, risk prioritization, and PowerShell-based remediation automation.
+## 🚨 SOC, Threat Detection & Cloud Investigations
 
-- **[Linux Vulnerability Management Lab](https://github.com/nehalcanadaedu-maker/linux-vulnerability-management-lab)**  
-  Hands-on Linux vulnerability management lab focused on authenticated scanning, vulnerability detection, remediation, and security hardening within Linux environments.
+### **End-to-End SOC/SOAR Automation Lab — Unauthorized RDP Detection & AD Containment**  
+**Splunk • Shuffle SOAR • Slack • AbuseIPDB • Active Directory • PowerShell**  
+A full SOC automation pipeline detecting unauthorized RDP logins (Event ID 4624, Logon Type 10), enriching alerts with IP reputation + MITRE ATT&CK, requesting analyst approval, and automatically disabling suspicious AD accounts. Includes final Slack reporting and a full video walkthrough.
 
-- **[Windows 11 STIG Vulnerability Remediation Lab](https://github.com/nehalcanadaedu-maker/STIGS-Implementation-Automation)**  
-  Windows 11 security hardening and remediation project using DISA STIG concepts, Tenable authenticated scans, PowerShell remediation scripts, and vulnerability validation workflows.
+🔗 [https://github.com/nehalcanadaedu-maker/soc-soar-rdp-containment-lab](https://github.com/nehalcanadaedu-maker/soc-soar-rdp-containment-lab)
 
-## 🚨 Threat Hunting and Security Operations
+---
 
-- **[End-to-End SOC/SOAR Automation Lab – Unauthorized RDP Login Detection & AD Containment](https://github.com/nehalcanadaedu-maker/soc-soar-rdp-containment-lab)**  
-  Built a Vultr-hosted SOC/SOAR workflow using Splunk, Shuffle, Slack, AbuseIPDB, Active Directory, and PowerShell to detect unauthorized RDP logins, enrich alerts with IP reputation and MITRE ATT&CK context, request analyst approval, disable suspicious AD accounts, and verify containment through final Slack notifications.
-  
-* **[Second Vector — Microsoft 365 Identity Compromise & BEC Investigation](https://github.com/nehalcanadaedu-maker/M365-Identity-Compromise-BEC-Silent-Exfiltration)**
+### **Microsoft 365 Identity Compromise & BEC Investigation (Silent Exfiltration)**  
+**Microsoft Sentinel • Entra ID • Defender XDR • Power Automate • Graph API**  
+Investigated a low-severity anonymous sign-in that escalated into full identity compromise, mailbox persistence, Power Automate abuse, and silent data exfiltration. Includes KQL queries across cloud, identity, mailbox, and app telemetry.
 
-  Investigated a low-severity Microsoft Entra ID anonymous sign-in alert that escalated into a confirmed identity compromise, business email compromise, mailbox persistence, Power Automate abuse, and silent data exfiltration using Microsoft Sentinel KQL across Microsoft 365, Entra ID, Defender XDR, email, mailbox, Graph, and cloud app telemetry.
+🔗 [https://github.com/nehalcanadaedu-maker/M365-Identity-Compromise-BEC-Silent-Exfiltration](https://github.com/nehalcanadaedu-maker/M365-Identity-Compromise-BEC-Silent-Exfiltration)
 
-- **[Threat Hunting Scenario (EmberForge Source Leak Investigation)](https://github.com/nehalcanadaedu-maker/Threat-hunt)**  
-  Conducted a full threat hunting investigation in Microsoft Sentinel involving data exfiltration, attacker infrastructure discovery, NTDS credential theft, and cloud-based exfiltration using KQL and Sysmon telemetry analysis.
+---
 
-- **[Tor Browser Threat Hunting Report](https://github.com/nehalcanadaedu-maker/tor-threat-hunting-report)**  
-  Developed threat hunting and detection engineering scenarios focused on identifying Tor Browser activity, anonymous outbound traffic, suspicious endpoint behavior, and enterprise policy evasion using Microsoft Defender for Endpoint and Microsoft Sentinel.
+### **Threat Hunting Scenario — EmberForge Source Leak Investigation**  
+**Sentinel • Sysmon • KQL**  
+Full threat hunt covering NTDS credential theft, attacker infrastructure discovery, and cloud-based exfiltration using Sysmon telemetry and Sentinel analytics.
 
+🔗 [https://github.com/nehalcanadaedu-maker/Threat-hunt](https://github.com/nehalcanadaedu-maker/Threat-hunt)
+
+---
+
+### **Tor Browser Threat Hunting Report**  
+**Defender for Endpoint • Sentinel**  
+Detection engineering and hunting for Tor Browser activity, anonymous outbound traffic, and enterprise policy evasion.
+
+🔗 [https://github.com/nehalcanadaedu-maker/tor-threat-hunting-report](https://github.com/nehalcanadaedu-maker/tor-threat-hunting-report)
+
+---
+
+## ⚠️ Vulnerability Management & Hardening
+
+### **Enterprise Vulnerability Management Program**  
+**Tenable • PowerShell • CAB Processes**  
+End-to-end VM lifecycle including discovery scans, prioritization, remediation workflows, CAB governance, and PowerShell automation.
+
+🔗 [https://github.com/nehalcanadaedu-maker/vulnerability-management-program](https://github.com/nehalcanadaedu-maker/vulnerability-management-program)
+
+---
+
+### **Linux Vulnerability Management Lab**  
+**Ubuntu • Tenable • Hardening**  
+Authenticated scanning, vulnerability detection, remediation, and hardening across Linux environments.
+
+🔗 [https://github.com/nehalcanadaedu-maker/linux-vulnerability-management-lab](https://github.com/nehalcanadaedu-maker/linux-vulnerability-management-lab)
+
+---
+
+### **Windows 11 STIG Remediation Lab**  
+**DISA STIG • PowerShell • Tenable**  
+Windows 11 hardening using STIG controls, automated remediation scripts, and validation through authenticated Tenable scans.
+
+🔗 [https://github.com/nehalcanadaedu-maker/STIGS-Implementation-Automation](https://github.com/nehalcanadaedu-maker/STIGS-Implementation-Automation)
+
+---
+
+## ⭐ Why This Portfolio Stands Out
+- Real SOC/SOAR automation (rare for entry-level)  
+- Cloud identity compromise investigations (high-value skill)  
+- Enterprise-style VM lifecycle projects  
+- Strong use of SIEM, SOAR, AD, PowerShell, Sentinel, and Tenable  
+- Clear, professional structure that hiring managers can skim quickly  
+- Includes a **video demo**, which dramatically increases credibility  
+
+---
+
+If you want, I can also help you:
+
+- Add a **visual banner** to your README  
+- Add **badges** (skills, tools, languages)  
+- Add a **“Top Projects”** section at the top  
+- Add a **short personal intro** that makes you more memorable  
+- Rewrite each project description to be even more punchy  
+
+Just tell me what style you want — clean, bold, or more visual.
