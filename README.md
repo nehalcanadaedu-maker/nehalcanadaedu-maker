@@ -62,24 +62,4 @@ Windows 11 hardening using STIG controls, automated remediation scripts, and val
 
 🔗 [https://github.com/nehalcanadaedu-maker/STIGS-Implementation-Automation](https://github.com/nehalcanadaedu-maker/STIGS-Implementation-Automation)
 
----
 
-## ⭐ Why This Portfolio Stands Out
-- Real SOC/SOAR automation (rare for entry-level)  
-- Cloud identity compromise investigations (high-value skill)  
-- Enterprise-style VM lifecycle projects  
-- Strong use of SIEM, SOAR, AD, PowerShell, Sentinel, and Tenable  
-- Clear, professional structure that hiring managers can skim quickly  
-- Includes a **video demo**, which dramatically increases credibility  
-
----
-
-If you want, I can also help you:
-
-- Add a **visual banner** to your README  
-- Add **badges** (skills, tools, languages)  
-- Add a **“Top Projects”** section at the top  
-- Add a **short personal intro** that makes you more memorable  
-- Rewrite each project description to be even more punchy  
-
-Just tell me what style you want — clean, bold, or more visual.
