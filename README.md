@@ -22,14 +22,6 @@ Investigated a low-severity anonymous sign-in that escalated into full identity 
 
 ---
 
-### **Threat Hunting Scenario — EmberForge Source Leak Investigation**  
-**Sentinel • Sysmon • KQL**  
-Full threat hunt covering NTDS credential theft, attacker infrastructure discovery, and cloud-based exfiltration using Sysmon telemetry and Sentinel analytics.
-
-🔗 [https://github.com/nehalcanadaedu-maker/Threat-hunt](https://github.com/nehalcanadaedu-maker/Threat-hunt)
-
----
-
 ### **Tor Browser Threat Hunting Report**  
 **Defender for Endpoint • Sentinel**  
 Detection engineering and hunting for Tor Browser activity, anonymous outbound traffic, and enterprise policy evasion.
