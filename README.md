@@ -22,6 +22,14 @@ Built a complete SOC automation pipeline that detects unauthorized RDP logins us
 
 ---
 
+### [SOC Network & Endpoint Detection Lab](https://github.com/nehalcanadaedu-maker/soc-network-endpoint-detection-lab)
+
+**Splunk Enterprise • Suricata • Sysmon • PowerShell • Wireshark • VirtualBox**
+
+Built a segmented three-VM SOC lab with a Kali attacker, Ubuntu SOC gateway, and Windows victim. Simulated and investigated network reconnaissance, failed and successful RDP authentication, system and account discovery, PowerShell execution, scheduled-task persistence, HTTP C2-style beaconing, and controlled outbound data transfer. Correlated Suricata network telemetry with Windows Security, Sysmon, and PowerShell logs in Splunk. Includes SPL detection queries, attack timeline reconstruction, MITRE ATT&CK mapping, and a complete incident report.
+
+---
+
 ### [Microsoft 365 Identity Compromise & BEC Investigation — Silent Exfiltration](https://github.com/nehalcanadaedu-maker/M365-Identity-Compromise-BEC-Silent-Exfiltration)
 
 **Microsoft Sentinel • Entra ID • Defender XDR • Power Automate • Microsoft Graph**
